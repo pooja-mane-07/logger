@@ -1,8 +1,0 @@
-This is a DEBUG message.
-This is an INFO message.
-This is a WARNING message.
-This is an ERROR message.
-This is a CRITICAL message.
-This is a FATAL message.
-This ERROR message should be logged.
-Now, DEBUG messages will be logged again.

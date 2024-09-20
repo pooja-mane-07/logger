@@ -1,5 +1,6 @@
 /build
 /logger/build
+/logs
 
 # Ignore VS Code workspace settings
 .vscode/
